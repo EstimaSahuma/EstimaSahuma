@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Estima Epalanga C. Sahuma 
+## Hi, I'm Estima Epalanga C. Sahuma Back-End Software Developer
  <div>
   <a href="https://github.com/EstimaSahuma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstimaSahuma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
